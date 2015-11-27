@@ -1,0 +1,28 @@
+name: jkr
+favicon: null
+layout_spectrum: 0.6224885398987681
+typography_spectrum: 0.17651790007948875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6319978057872504
+  lightness: 0.8755371829029173
+  saturation: 0.781235298840329
+  rhythmicContrast: 0.5783412519376725
+purpose: []
