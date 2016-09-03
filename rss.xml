@@ -4,14 +4,14 @@
         <description><![CDATA[jkr]]></description>
         <link>https://thegrid.ai/jkr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 23:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 22:45:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jkr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FD]]></title>
-            <description><![CDATA[<article><h1>FD</h1><p>This is a first draft of a first draft.</p></article>]]></description>
+            <description><![CDATA[<p>This is a first draft of a first draft.</p>]]></description>
             <link>https://thegrid.ai/jkr/fd/index.html</link>
             <guid isPermaLink="false">329899b6-2e55-4f76-bf62-bd02b6ffbbd1</guid>
-            <pubDate>Fri, 27 Nov 2015 22:41:14 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 22:39:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
